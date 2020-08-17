@@ -27,7 +27,7 @@ body {
     height: 100vh;
 }
 /*Fundo de pagina, alinhamento e texto*/
-body{
+#page-landing{
     background: var(--color-background);
     display: flex;
     align-items: center;
