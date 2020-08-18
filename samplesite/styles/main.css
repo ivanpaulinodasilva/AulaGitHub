@@ -28,7 +28,7 @@ body {
 }
 /*Fundo de pagina, alinhamento e texto*/
 body{
-    background: var(--color-background);
+    background: var(--color-primary);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -48,17 +48,23 @@ textarea {
     width:90vw;
     max-width: 700px;
 }
+/*Inserir dados do header*/
+
+/*Inserir dados do header*/
+
+
 /*Inserir dados do page-landging*/
 /*Configuração da estrutura de pagina em relação ao seu tamanho*/
-#page-give-classes #container{
-    /*
-   width: 100vw;
-   height: 100vw;
-   */
+/*#page-give-classes #container{
+   
+//   width: 100vw;
+//   height: 100vw;
+ 
    width: 100%;
    height: 100%;
    }
-   
+
+*/
    #page-give-classes .page-header .header-content{
        margin-bottom: 6.4rem;
    }
